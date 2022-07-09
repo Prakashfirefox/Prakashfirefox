@@ -8,7 +8,7 @@ I've been learning to code for 5 years, after switching careers. I started with 
 
 *   🌍  I'm based in Chennai, India
 *   ✉️  You can contact me at [prakash.selvam@outlook.in](mailto:prakash.selvam@outlook.in)
-*   🚀  I'm currently working on [Zinodeli](http://www.zinzo.com)
+*   🚀  I'm currently working on [HRMS](http://www.zinzo.com/hrms)
 *   🧠  I'm learning Python Django Framework
 *   🤝  I'm open to collaborating on Django and Python Data Science Project
 *   ⚡  Want to construct a own data warehouse is my dream.
