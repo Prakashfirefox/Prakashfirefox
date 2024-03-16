@@ -8,10 +8,10 @@ I've been learning to code for 5 years, after switching careers. I started with 
 
 *   🌍  I'm based in Chennai, India
 *   ✉️  You can contact me at [prakash.selvam@outlook.in](mailto:prakash.selvam@outlook.in)
-*   🚀  I'm currently working on [Zinnext](http://www.zinnext.com)
-*   🧠  I'm learning Python Django Framework
-*   🤝  I'm open to collaborating on Django and Python Data Science Project
-*   ⚡  Want to construct a own data warehouse is my dream.
+*   🚀  I'm currently working in [realtekh](http://www.realtekconsulting.net) as Software Engineer
+*   🧠  I'm learning Python, NodeJs, PHP, MySQL, MongoDB Django Framework
+*   🤝  I'm open to collaborating on Python, nodeJs, php  Project
+*   ⚡  Want to be a full-stack Engineer.
 <br>
 <a href="https://www.twitter.com/prakashfirefox" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/prakashfirefox?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
