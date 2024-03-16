@@ -11,7 +11,7 @@ API integration using PHP, Python, node JS, React, MySQL, MongoDB, and AWS.
 *   🌍  I'm based in Chennai, India
 *   ✉️  You can contact me at [prakash.selvam@outlook.in](mailto:prakash.selvam@outlook.in)
 *   🚀  I'm currently working in [realtekh](http://www.realtekconsulting.net) as Software Engineer
-*   🧠  I'm learning Python, NodeJs, PHP, MySQL, MongoDB Django Framework
+*   🧠  I'm learning Python, NodeJs, PHP, MySQL, MongoDB
 *   🤝  I'm open to collaborating on Python, nodeJs, php  Project
 *   ⚡  Want to be a full-stack Engineer.
 <br>
