@@ -1,7 +1,7 @@
 Hi 👋 My name is Prakash selvam
 ===============================
 
-Web Application Developer
+Fullstack Developer
 -------------------------
 
 I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development. Having good experience in PHP, Javascript, Python programming and MySQL query.
