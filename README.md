@@ -4,7 +4,9 @@ Hi 👋 My name is Prakash selvam
 Fullstack Developer
 -------------------------
 
-I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development. Having good experience in PHP, Javascript, Python programming and MySQL query.
++ years of experience as a software developer skilled in API development, web development, and
+API integration using PHP, Python, node JS, React, MySQL, MongoDB, and AWS.
+
 
 *   🌍  I'm based in Chennai, India
 *   ✉️  You can contact me at [prakash.selvam@outlook.in](mailto:prakash.selvam@outlook.in)
