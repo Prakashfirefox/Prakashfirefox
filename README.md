@@ -4,7 +4,7 @@ Hi 👋 My name is Prakash selvam
 Fullstack Developer
 -------------------------
 
-+ years of experience as a software developer skilled in API development, web development, and
++ Years of experience as a software developer skilled in API development, web development, and
 API integration using PHP, Python, node JS, React, MySQL, MongoDB, and AWS.
 
 
